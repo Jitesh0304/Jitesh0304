@@ -68,8 +68,8 @@ I'm a **Machine Learning Engineer** and **Backend Developer** passionate about b
 
 ### 📈 GitHub Stats  
 
-![Jitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)  
+![Jitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jitesh0304&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jitesh0304&layout=compact&theme=radical)  
 
 ---
 
